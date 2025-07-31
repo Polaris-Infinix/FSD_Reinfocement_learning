@@ -3,4 +3,4 @@ This is a Reporistory where an end to end autonomous car learns to drive and man
 
 # Simulation environment 
 The car uses AWSIM with modified environment to simulate and learn
-Rewars functions are given in the environment 
+Reward functions are given in the environment 
