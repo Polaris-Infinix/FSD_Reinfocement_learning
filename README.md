@@ -54,7 +54,7 @@ Interested in collaborating or learning more?
 Reach out via:
 
 - **Email**:pastaysaisagar@gmail.com  
-- **LinkedIn**: [linkedin.com/in/saisagarsp]([www.linkedin.com/in/sai-sagar-s-p-18b1b5236)]  
+- **LinkedIn**: [linkedin.com/in/saisagarsp ](www.linkedin.com/in/sai-sagar-s-p-18b1b5236)
 
 ---
 
