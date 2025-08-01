@@ -53,9 +53,8 @@ To replicate this project, you will need:
 Interested in collaborating or learning more?  
 Reach out via:
 
-- **Email**: your.email@example.com  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **Portfolio**: [your-website.com](https://your-website.com)
+- **Email**: your.pastaysaisagar@gmail.com  
+- **LinkedIn**: [linkedin.com/in/your-profile](www.linkedin.com/in/sai-sagar-s-p-18b1b5236)  
 
 ---
 
