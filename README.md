@@ -1,71 +1,65 @@
-# 🧠 FSD_Reinforcement_Learning
+# FSD_Reinforcement_Learning
 
-This repository showcases an **end-to-end autonomous driving system** trained using **reinforcement learning** in simulation. The agent learns to drive, maneuver, and make intelligent decisions in challenging environments using AWSIM (Autonomous Vehicle Simulation).
-
----
-
-## 🚗 Overview
-
-- Trained in **AWSIM** (Unity + ROS2 based simulation)
-- Uses **Proximal Policy Optimization (PPO)** for control
-- Reward functions crafted for realistic lane-keeping, turning, and obstacle avoidance
-- End-to-end pipeline from **LiDAR point cloud to control output**
-- Perception handled by **PointNet++** as the front-end encoder
+This repository documents the development of an **end-to-end autonomous driving system** using **reinforcement learning** in simulation. The goal is to train a car to drive intelligently through complex environments using **AWSIM** (Autonomous Vehicle Simulation).
 
 ---
 
-## 🎥 Demo
+## Project Overview
 
-Watch the trained agent in action:
-
-📽️ [Link to Demo Video](#)  
-📁 `model_final.pth` – Final trained policy weights (download from Releases tab)
-
----
-
-## 🧪 Setup
-
-To reproduce the results, you will need to:
-
-1. Clone [AWSIM](https://github.com/tier4/AWSIM) and follow its setup instructions
-2. Install ROS 2 Humble and dependencies (`ros-foxy-*` if you used a different distro)
-3. Bridge Unity and ROS 2 via ros2-for-unity
-4. Plug in the trained model weights (`model_final.pth`) into the inference node
-5. Launch the simulation and inference pipeline
-
-*Note: Code is not public. For collaboration or detailed implementation queries, feel free to contact me.*
+- Simulation powered by **AWSIM** (Unity + ROS2)
+- Control policy trained using **Proximal Policy Optimization (PPO)**
+- Designed reward functions for realistic driving behavior:  
+  lane keeping, smooth turning, obstacle avoidance
+- **End-to-end architecture**: from **LiDAR point clouds** to **drive commands**
+- Perception encoded with **PointNet++**
 
 ---
 
-## 📦 Contents
+## Demo
 
-- `/models` – Trained policy weights  
-- `/videos` – Sample runs and result recordings  
-- `/config` – PPO training config (reward shaping, learning rate, etc.) *(optional)*
-- `/README.md` – This file  
+A video showing the environment and simulation is available here:  
+**[Demo Video Link – Coming Soon]**
 
----
-
-## 🤖 Technologies Used
-
-- Unity + AWSIM (simulation)
-- ROS 2 (communication)
-- PyTorch (RL + perception)
-- PPO algorithm (custom implementation)
-- PointNet++ for point cloud processing
+Final model training is currently in progress. Once complete, the trained agent video and model will be uploaded.
 
 ---
 
-## 📬 Contact
+## Setup Instructions
 
-Want to collaborate or learn more?
+To replicate this project, you will need:
 
-📧 email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-🌐 [Portfolio](https://your-site.com)
+1. Clone and set up [AWSIM](https://github.com/tier4/AWSIM)
+2. Install **ROS 2 Humble** and required dependencies
+3. Integrate **ros2-for-unity** bridge between Unity and ROS
+4. Insert trained model weights (coming soon) into the inference node
+5. Launch the simulator and run the RL inference pipeline
+
+> Note: Codebase is currently private. If you're interested in collaboration or details, feel free to reach out.
 
 ---
 
-## ⚠️ License
+## Technologies Used
 
-Trained model and results are released for **non-commercial, research, and educational use only.**
+- Unity + AWSIM for simulation
+- ROS 2 for inter-process communication
+- PyTorch for training the PPO agent
+- Custom PPO implementation
+- PointNet++ for LiDAR-based perception
+
+---
+
+## Contact
+
+Interested in collaborating or learning more?  
+Reach out via:
+
+- **Email**: your.email@example.com  
+- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- **Portfolio**: [your-website.com](https://your-website.com)
+
+---
+
+## License & Usage
+
+This project and its outputs are intended for **non-commercial, research, and educational use only**.  
+Full model and training results will be released soon.
