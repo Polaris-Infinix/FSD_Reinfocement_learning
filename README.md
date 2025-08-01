@@ -53,8 +53,8 @@ To replicate this project, you will need:
 Interested in collaborating or learning more?  
 Reach out via:
 
-- **Email**: your.pastaysaisagar@gmail.com  
-- **LinkedIn**: [linkedin.com/in/your-profile](www.linkedin.com/in/sai-sagar-s-p-18b1b5236)  
+- **Email**:pastaysaisagar@gmail.com  
+- **LinkedIn**: [linkedin.com/in/saisagarsp]([www.linkedin.com/in/sai-sagar-s-p-18b1b5236)]  
 
 ---
 
