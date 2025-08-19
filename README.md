@@ -1,6 +1,7 @@
 # FSD_Reinforcement_Learning
 
 This repository documents the development of an **end-to-end autonomous driving system** using **reinforcement learning** in simulation. The goal is to train a car to drive intelligently through complex environments using **AWSIM** (Autonomous Vehicle Simulation).
+The car's is conitunously getting updated. New environemnt scenarious are being added and the reward function is being refined 
 
 ---
 
