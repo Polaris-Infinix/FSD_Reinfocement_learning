@@ -1,4 +1,4 @@
-[Screencast from 08-19-2025 10:33:11 AM.webm](https://github.com/user-attachments/assets/51369014-8c06-4d13-af22-cb6911c66340)# FSD_Reinforcement_Learning
+# FSD_Reinforcement_Learning
 
 This repository documents the development of an **end-to-end autonomous driving system** using **reinforcement learning** in simulation. The goal is to train a car to drive intelligently through complex environments using **AWSIM** (Autonomous Vehicle Simulation).
 
@@ -18,7 +18,10 @@ This repository documents the development of an **end-to-end autonomous driving 
 ## Demo
 
 A video showing the environment and simulation is available here:  
-[Screencast from 08-19-2025 10:33:11 AM.webm](https://github.com/user-attachments/assets/f76c4c5d-76ac-4be9-9df7-a12617e91b19)
+
+
+https://github.com/user-attachments/assets/573ad777-109f-4e1b-9f94-d49e136a111f
+
 
 
 This is in the initial video of the training. As the training progess better results are expected .
