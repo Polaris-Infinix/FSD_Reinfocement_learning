@@ -13,6 +13,9 @@ The car's is conitunously getting updated. New environemnt scenarious are being 
   lane keeping, smooth turning, obstacle avoidance
 - **End-to-end architecture**: from **LiDAR point clouds** to **drive commands**
 - Perception encoded with **PointNet++**
+- The training loop based on ROS can be found below 
+
+<img width="1830" height="878" alt="Screenshot from 2025-09-08 01-18-41" src="https://github.com/user-attachments/assets/2b465547-8468-43fd-83a5-8492c562f525" />
 
 ---
 
