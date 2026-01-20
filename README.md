@@ -15,7 +15,8 @@ The car's is conitunously getting updated. New environemnt scenarious are being 
 - Perception encoded with **PointNet++**
 - The Rqt graph for the training loop can be found below 
 
-<img width="1830" height="878" alt="Screenshot from 2025-09-08 01-18-41" src="https://github.com/user-attachments/assets/2b465547-8468-43fd-83a5-8492c562f525" />
+<img width="1063" height="507" alt="image" src="https://github.com/user-attachments/assets/e7895e23-2878-499a-9663-27ec946342ce" />
+
 
 ---
 
@@ -28,7 +29,7 @@ https://github.com/user-attachments/assets/573ad777-109f-4e1b-9f94-d49e136a111f
 
 
 
-This is in the initial video of the training. As the training progess better results are expected .
+This is  the initial video of the training using imitation learning (which is overfitted here). As the training progess better results are expected .
 ---
 
 ## Setup Instructions
