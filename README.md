@@ -12,7 +12,7 @@ The car's is conitunously getting updated. New environemnt scenarious are being 
 - Designed reward functions for realistic driving behavior:  
   lane keeping, smooth turning, obstacle avoidance
 - **End-to-end architecture**: from **LiDAR point clouds** to **drive commands**
-- Perception encoded with **PointNet++**
+- Perception encoded with **Pointspillar**
 - The Rqt graph for the training loop can be found below 
 
 <img width="1063" height="507" alt="image" src="https://github.com/user-attachments/assets/e7895e23-2878-499a-9663-27ec946342ce" />
@@ -52,7 +52,7 @@ To replicate this project, you will need:
 - ROS 2 for inter-process communication
 - PyTorch for training the PPO agent
 - Custom PPO implementation
-- PointNet++ for LiDAR-based perception
+- Pointspillar for LiDAR-based perception
 
 ---
 
